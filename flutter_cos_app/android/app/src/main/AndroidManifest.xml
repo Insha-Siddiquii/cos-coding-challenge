@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_cos_app">
+    package="com.application.flutterCosApp">
    <application
-        android:label="flutter_cos_app"
+        android:label="CoS Inspector"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
